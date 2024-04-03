@@ -54,14 +54,17 @@
     "Education":[
         {
             "name":"Groote Schuur High School",
-            "description":"Completed matric in 2021 with a bacherlors degree"
+            "time":"2017-2021",
+            "description":"Completed matric in 2021 with a bacherlors degree."
         },
         {
             "name":"Life Choices Academy",
+            "time":"2023-2024",
             "description":"Started studying with Life Choices Academy in 2023."
         },
         {
             "name":"FreeCode Camp",
+            "time":"2021-2022",
             "description":"Started with Free Code Camp in 2021 and upskilled myself in my free time."
         }
     ],
