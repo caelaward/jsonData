@@ -93,11 +93,11 @@
         },
         {
             
-            "project":"Temperature convertor",
+            "project":"Capstone Project",
             "description":"Convertor made with Javascript and CSS to convert the temperature from Degress Celcius to Fahrenheit.",
-            "image":"https://i.postimg.cc/B651n4N7/temp2.png",
-            "vercel":"https://calc-nu-one.vercel.app/",
-            "github":"https://github.com/caelaward/calc.git"
+            "image":"https://i.ibb.co/KmMPKHs/Screenshot-2024-04-04-152942.png",
+            "vercel":"capstoneproject-604f7.firebaseapp.com",
+            "github":"https://github.com/caelaward/capstone_project.git"
         },
         {
             "project":"Minutes to Seconds generator",
