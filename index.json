@@ -1,25 +1,34 @@
 {
     "resume": [
-        {
-            "experience":"Voluntary work",
-            "description": "Volunteered at different children's Homes during 2020-2022 as well as handed out food for the less fortunate."
+         {
+            "experience":"LC Studio",
+            "description": "I upskilled myself at LC Studio in 2024. I learnt about networking as well as how to conduct myself in the work place."    
         },
-        {
+         {
+            "experience":"Ticket Pro",
+            "description": "Weekends I work with Ticket Pro as a tciekt scanner administrator. I started with Ticket Pro in 2022 and I currentlty still do weekends jobs when needed."    
+        },
+        
+         {
+            "experience":"Children's Montesorri Workshop",
+            "description": "I worked as an assistant teacher for four months in 2023. I left the school once I got offered an oportunity to study at Life Choices Academy full-time."    
+        },
+         {
+            "experience":"Au pair",
+            "description": "Done au pair work during 2022 for eight months looking after an 4 month old. I stopped the au pair journey once the parents were ready to move on to crèche."
+        },
+         {
             "experience":"ARCC",
             "description": "Done data capturing part time during holidays in 2022."
         },
         {
-            "experience":"Au pair",
-            "description": "Done au pair work during 2022 for eight months looking after an 4 month old. I stopped the au pair journey once the parents were ready to move on to crèche."
-        },
-        {
-            "experience":"Children's Montesorri Workshop",
-            "description": "I worked as an assistant teacher for four months in 2023. I left the school once I got offered an oportunity to study at Life Choices Academy full-time."    
-        },
-        {
-            "experience":"LC Studio",
-            "description": "I upskilled myself at LC Studio in 2024. I learnt about networking as well as how to conduct myself in the work place."    
+            "experience":"Voluntary work",
+            "description": "Volunteered at different children's Homes during 2020-2022 as well as handed out food for the less fortunate."
         }
+       
+       
+       
+       
         
        
     ],
@@ -56,21 +65,23 @@
         }
     ],
     "Education":[
-        {
-            "name":"Groote Schuur High School",
-            "time":"2017-2021",
-            "description":"Completed matric in 2021 with a bacherlors degree."
-        },
-        {
+                {
             "name":"Life Choices Academy",
             "time":"2023-2024",
             "description":"Started studying with Life Choices Academy in 2023."
         },
-        {
+         {
             "name":"FreeCode Camp",
             "time":"2021-2022",
             "description":"Started with Free Code Camp in 2021 and upskilled myself in my free time."
+        },
+        {
+            "name":"Groote Schuur High School",
+            "time":"2017-2021",
+            "description":"Completed matric in 2021 with a bacherlors degree."
         }
+
+       
     ],
     "projects": [
         {
