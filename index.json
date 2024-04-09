@@ -1,12 +1,12 @@
 {
     "resume": [
          {
-            "experience":"LC Studio",
+            "experience":"LC Studio intern",
             "description": "I upskilled myself at LC Studio in 2024. I learnt about networking as well as how to conduct myself in the work place."    
         },
          {
             "experience":"Ticket Pro",
-            "description": "Weekends I work with Ticket Pro as a tciekt scanner administrator. I started with Ticket Pro in 2022 and I currentlty still do weekends jobs when needed."    
+            "description": "Weekends I work with Ticket Pro as a ticket scanner administrator. I started with Ticket Pro in 2022 and I currentlty still do weekends jobs when needed."    
         },
         
          {
@@ -15,11 +15,11 @@
         },
          {
             "experience":"Au pair",
-            "description": "Done au pair work during 2022 for eight months looking after an 4 month old. I stopped the au pair journey once the parents were ready to move on to crèche."
+            "description": "I worked during 2022 for eight months looking after a 4 month old. I stopped the au pair journey once the parents were ready to move on to crèche."
         },
          {
             "experience":"ARCC",
-            "description": "Done data capturing part time during holidays in 2022."
+            "description": "I done data capturing part time during holidays in 2022."
         },
         {
             "experience":"Voluntary work",
@@ -86,7 +86,7 @@
     "projects": [
         {
             "project":"Pet Shop E-commerce",
-            "description":"E-commerce project made uing javascript and CSS to style.  ",
+            "description":"E-commerce project made using javascript and CSS to style.  ",
             "image":"https://i.postimg.cc/sg2Cgmfp/pet-shop.png",
             "vercel":"https://pet-shop-six-tan.vercel.app/",
             "github":"https://github.com/caelaward/Pet-Shop.git"
@@ -94,7 +94,7 @@
         {
             
             "project":"Capstone Project",
-            "description":"Convertor made with Javascript and CSS to convert the temperature from Degress Celcius to Fahrenheit.",
+            "description":"E-commerce project made using vue js and node js . ",
             "image":"https://i.ibb.co/KmMPKHs/Screenshot-2024-04-04-152942.png",
             "vercel":"capstoneproject-604f7.firebaseapp.com",
             "github":"https://github.com/caelaward/capstone_project.git"
@@ -118,7 +118,7 @@
             "description":"Project created using javascript and CSS to generate the amount of days compared to the age.",
             "image":"https://i.postimg.cc/Jn3RkhfJ/age-to-day.png",
             "vercel":"https://age-to-days-beta.vercel.app/",
-            "github":"fifthProject"
+            "github":"https://github.com/caelaward/Age-to-days.git"
         },
         {
             "project":"Bakery E-commerce",
